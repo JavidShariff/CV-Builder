@@ -1,0 +1,66 @@
+
+.container{
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(85, 158, 182);
+}
+.Joborder{
+    overflow-x: scroll;
+}
+.inp{
+    height:20px;
+}
+.input{
+    width:150px;
+    height: 20px;
+}
+.input1{
+    width:250px;
+    margin-left: 5px;
+    height: 20px;
+}
+.but{
+    background-color: whitesmoke;
+    color: black;
+    margin-top: 5px;
+}
+.but:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.introInfo{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    /* font-size: 5px; */
+}
+
+.inputInfo{
+    margin: 0px 10px;
+    width:150px;
+    height: 27px;
+}
+.Cname{
+    margin:0px 100px;
+}
+.building{
+    margin:0px 250px;
+}
+.font{
+    font-size: 13px;
+    font-weight: bold;
+}
+.QID{
+    margin-top: 7px;
+}
+
+.inputInfoR{
+    margin: 10px 3px;
+    width: 13em;
+}
+
+h4{
+    margin: 15px 0px;
+}

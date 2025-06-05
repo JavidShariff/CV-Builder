@@ -1,0 +1,62 @@
+.photo{
+    width: 130px;
+    height: 130px;
+    margin-top:15px;
+    margin-left:25px;
+}
+.container{
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(85, 158, 182);
+}
+.inp{
+    height:20px;
+}
+.Rv{
+    overflow-y: scroll;
+}
+.input{
+    width:150px;
+    height: 20px;
+}
+.input1{
+    width:250px;
+    margin-left: 5px;
+    height: 20px;
+}
+.but{
+    background-color: whitesmoke;
+    color: black;
+    margin-top: 5px;
+}
+.but:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.introInfo{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    /* font-size: 5px; */
+}
+
+.inputInfo{
+    margin: 0px 10px;
+    width:150px;
+    height: 17px;
+}
+
+.img{
+    /* background-position: center; */
+    background-size: cover;
+    height: 130px;
+    width: 130px;
+}
+
+.img2{
+    background-size: cover;
+    height: 600px;
+    width: 330px;
+}

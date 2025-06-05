@@ -1,0 +1,25 @@
+.Checkbox{
+    width: 20px;
+    height:20px;
+    margin: 0px 20px;
+}
+
+.recp{
+    overflow-y: visible;
+}
+.container{
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(85, 158, 182);
+}
+.fontCJo{
+font-size: 13px;
+font-weight: bold;
+}
+.inpCJo{
+height: 35px;
+width: 35rem;
+}
+
+

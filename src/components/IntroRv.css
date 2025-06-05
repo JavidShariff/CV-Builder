@@ -1,0 +1,31 @@
+.intro{
+    height: 92vh;
+    width: 100vw;
+    border-radius: 3px;
+    border: 1px solid black;
+    flex-wrap: wrap;
+}
+.title{
+    align-content: space-around;
+}
+.icon{
+    cursor: pointer;
+}
+.card1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.searchrv{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 40px;
+}
+.cardimg{
+    margin:5px;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin-bottom: 5px;
+    width: 80px;
+    height: 80px;
+}
