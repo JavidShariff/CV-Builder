@@ -6,7 +6,7 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey:  "AIzaSyB5bgsv6wPrnVEXeEXpMUpe0q0DLhLIGvQ",
+  apiKey: "Enter The Firebase API Key",
   authDomain: "cv-generator-fb87b.firebaseapp.com",
   projectId: "cv-generator-fb87b",
   storageBucket: "cv-generator-fb87b.appspot.com",
